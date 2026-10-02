@@ -19,8 +19,9 @@ function setMenu(open){
   navigation.classList.toggle('open',open);
   navigation.inert=!open;
   menuButton.setAttribute('aria-expanded',String(open));
-  menuButton.setAttribute('aria-label',open?'Fechar menu':'Abrir menu');
-  menuButton.textContent=open?'Fechar ×':'Menu ☰';
+  menuButton.setAttribute('aria-label',t(open?'Fechar menu':'Abrir menu'));
+  menuButton.textContent=t(open?'Fechar ×':'Menu ☰');
+  languageButton.inert=open;closeLanguages();
   main.inert=open;
   document.querySelector('.site-footer').inert=open;
   document.querySelector('.header .logo').inert=open;
@@ -37,9 +38,21 @@ document.addEventListener('keydown',event=>{
     else if(!event.shiftKey && (index===links.length-1 || index<0)){event.preventDefault();menuButton.focus()}
   }
 });
-let current='';function render(){const hash=location.hash.slice(1)||'inicio';if(hash==='main'){document.getElementById('main').focus();return}if(hash==='selecionados'){if(current!=='inicio'){main.innerHTML=home();current='inicio'}requestAnimationFrame(()=>document.getElementById(hash)?.scrollIntoView());return}const route=['inicio','projetos','sobre','contato','vertice'].includes(hash)?hash:'inicio';if(current!==route){main.innerHTML=({inicio:home,projetos:portfolio,sobre:about,contato:contact,vertice:verticeCase})[route]();current=route;window.scrollTo(0,0)}document.querySelectorAll('nav a').forEach(a=>{if(a.hash==='#'+(route==='vertice'?'projetos':route))a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')});setMenu(false);document.title=({inicio:'Início',projetos:'Projetos',sobre:'Sobre',contato:'Contato',vertice:'Vértice Racing — Case study'})[route]+' — Dev Gabriel Teixeira'}
-function show(title,copy){document.getElementById('dialog-title').textContent=title;document.getElementById('dialog-copy').textContent=copy;dialog.showModal()}
-document.addEventListener('click',async event=>{const p=event.target.closest('[data-project]');if(p){const project=projects.find(item=>item.id===p.dataset.project);if(project.id==='vertice')location.hash='vertice';else show(project.name,project.copy)}const f=event.target.closest('[data-filter]');if(f){document.querySelectorAll('[data-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b===f)));document.querySelectorAll('[data-project]').forEach(card=>card.hidden=f.dataset.filter!=='all'&&card.dataset.project!==f.dataset.filter)}if(event.target.closest('[data-copy-email]')&&profile.email){const status=document.querySelector('.copy-status');try{await navigator.clipboard.writeText(profile.email);status.textContent='E-mail copiado!'}catch{status.textContent='Não foi possível copiar automaticamente. Selecione o e-mail acima para copiar.'}}});
+let current='';function render(){const hash=location.hash.slice(1)||'inicio';if(hash==='main'){document.getElementById('main').focus();return}if(hash==='selecionados'){document.title=t('Início')+' — Dev Gabriel Teixeira';if(current!=='inicio'){main.innerHTML=localize(home());current='inicio'}requestAnimationFrame(()=>document.getElementById(hash)?.scrollIntoView());return}const route=['inicio','projetos','sobre','contato','vertice'].includes(hash)?hash:'inicio';if(current!==route){main.innerHTML=localize(({inicio:home,projetos:portfolio,sobre:about,contato:contact,vertice:verticeCase})[route]());current=route;window.scrollTo(0,0)}document.querySelectorAll('nav a').forEach(a=>{if(a.hash==='#'+(route==='vertice'?'projetos':route))a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')});setMenu(false);document.title=t(({inicio:'Início',projetos:'Projetos',sobre:'Sobre',contato:'Contato',vertice:'Vértice Racing — Case study'})[route])+' — Dev Gabriel Teixeira'}
+function show(title,copy){document.getElementById('dialog-title').textContent=title;document.getElementById('dialog-copy').textContent=t(copy);dialog.showModal()}
+document.addEventListener('click',event=>{
+  const logo=event.target.closest('a.logo[href="#inicio"]');
+  if(!logo || event.button!==0 || event.ctrlKey || event.metaKey || event.shiftKey || event.altKey)return;
+  if(current==='inicio'){
+    event.preventDefault();
+    setMenu(false);
+    // Keep the Home route and scroll even when its hash is already active.
+    history.replaceState(null,'','#inicio');
+    window.dispatchEvent(new Event('portfolio:scroll-stop'));
+    window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
+  }
+});
+document.addEventListener('click',async event=>{const p=event.target.closest('[data-project]');if(p){const project=projects.find(item=>item.id===p.dataset.project);if(project.id==='vertice')location.hash='vertice';else show(project.name,project.copy)}const f=event.target.closest('[data-filter]');if(f){document.querySelectorAll('[data-filter]').forEach(b=>b.setAttribute('aria-pressed',String(b===f)));document.querySelectorAll('[data-project]').forEach(card=>card.hidden=f.dataset.filter!=='all'&&card.dataset.project!==f.dataset.filter)}if(event.target.closest('[data-copy-email]')&&profile.email){const status=document.querySelector('.copy-status');try{await navigator.clipboard.writeText(profile.email);status.textContent=t('E-mail copiado!')}catch{status.textContent=t('Não foi possível copiar automaticamente. Selecione o e-mail acima para copiar.')}}});
 document.querySelector('.close').addEventListener('click',()=>dialog.close());dialog.addEventListener('click',e=>{if(e.target===dialog){const r=dialog.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)dialog.close()}});document.querySelector('.menu').addEventListener('click',()=>setMenu(!menuOpen));// Keep the header steady while the page content leaves and enters.
 let routeAnimation=null, routeRevision=0;
 async function transitionPage(){
@@ -67,3 +80,13 @@ async function transitionPage(){
   if(revision===routeRevision){routeAnimation.cancel();routeAnimation=null;}
 }
 window.addEventListener('hashchange',transitionPage);render();
+
+languageOptions.addEventListener('click',event=>{
+  const option=event.target.closest('[data-language]');if(!option)return;
+  language=option.dataset.language;
+  try{localStorage.setItem('portfolio-language',language);}catch{}
+  const position=scrollY;window.dispatchEvent(new Event('portfolio:scroll-stop'));
+  routeRevision++;routeAnimation?.cancel();routeAnimation=null;
+  closeLanguages();refreshLanguageUI();current='';render();
+  window.scrollTo({top:position,behavior:'instant'});languageButton.focus();
+});
