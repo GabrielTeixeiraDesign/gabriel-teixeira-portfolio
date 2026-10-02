@@ -90,3 +90,17 @@ body.menu-open{overflow:hidden}
 .case-continuation{gap:0}
 .case-return{padding:48px 24px}
 }
+
+/* Readable complete hero phrase on small screens. */
+html{scroll-behavior:smooth;scroll-padding-top:90px}
+@media(max-width:700px){
+html{scroll-padding-top:76px}
+.hero .intro>h1{font-size:clamp(44px,13.5vw,94px);width:100%}
+.hero h1 .headline-line{max-width:100%}
+.scroll-ribbon{padding:22px 24px}
+.ribbon-track{width:100%;transform:none;will-change:auto;display:block;font-size:clamp(26px,7.5vw,40px);line-height:1.15}
+.ribbon-track span{white-space:normal;display:block;overflow-wrap:normal}
+.ribbon-track span:not(:first-child){display:none}
+.hero .tagline{max-width:100%;line-height:1.6}
+}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
