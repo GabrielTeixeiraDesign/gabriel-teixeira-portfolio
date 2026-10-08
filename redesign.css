@@ -115,3 +115,16 @@ html{scroll-padding-top:76px}
 .language-options button:hover,.language-options button[aria-pressed=true]{background:var(--acid)}
 .language-toggle:focus-visible,.language-options button:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
 @media(max-width:700px){.header .nav{gap:10px}.header .logo{font-size:21px;max-width:135px}.language-toggle{padding:10px 8px}.header .menu{padding:12px 10px;font-size:11px}.language-code{font-size:10px}.hero .intro>h1{font-size:clamp(40px,12vw,84px)}.page-intro h1,.contact-page h1{overflow-wrap:anywhere}.case-return .button{white-space:normal}.text-link{white-space:normal}}
+
+/* Preview: original photograph composed inside the supplied Polaroid frame. */
+.hero picture.polaroid{aspect-ratio:564/684;border:0;background:none;overflow:hidden;box-shadow:8px 12px 20px #17191625;transform:rotate(5deg)}
+.polaroid-frame{position:absolute;max-width:none;width:130.32%;height:109.94%;left:-15.78%;top:-4.39%;display:block}
+.polaroid-photo{position:absolute;left:6.55%;top:6.14%;width:86.7%;height:73.25%;object-fit:cover;object-position:center bottom;display:block}
+@media(max-width:700px){.hero picture.polaroid{width:80%;transform:rotate(3deg)}}
+
+.workflow-steps{list-style:none;padding:0;margin:8px 0;display:grid;gap:0}.workflow-steps li{display:grid;grid-template-columns:48px 1fr;gap:20px;border-top:1px solid var(--line);padding:28px 0}.workflow-number{font-family:var(--sans);font-size:14px;padding-top:8px}.working .workflow-steps h3,.working .workflow-principle h3{font-size:clamp(28px,4vw,38px);line-height:1.1;margin:0 0 14px}.workflow-steps p,.workflow-principle p{font-size:18px;line-height:1.65}.workflow-principle{background:var(--acid);padding:28px}.working>p:not(.eyebrow){line-height:1.65}@media(max-width:700px){.workflow-steps li{grid-template-columns:28px 1fr;gap:12px;padding:24px 0}.workflow-steps p,.workflow-principle p{font-size:16px}.workflow-principle{padding:22px}}
+
+main.language-refresh .reveal{transform:none!important;opacity:1!important;transition:none!important}
+
+/* Explicit language anchoring owns scroll position; avoid browser double compensation. */
+html{overflow-anchor:none}

@@ -33,6 +33,7 @@
   window.addEventListener('touchstart',stop,{passive:true});
   window.addEventListener('keydown',stop);
   window.addEventListener('hashchange',stop);
+  window.addEventListener('portfolio:scroll-stop',stop);
   reduced.addEventListener('change',stop);
   desktopPointer.addEventListener('change',stop);
 })();

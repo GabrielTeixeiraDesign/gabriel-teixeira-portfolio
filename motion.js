@@ -56,6 +56,7 @@
     }, {threshold: .08, rootMargin: '0px 0px -24px 0px'});
     elements.forEach((el, i) => {
       el.classList.add('reveal');
+      if(root.classList.contains('language-refresh'))el.classList.add('is-visible');
       el.style.setProperty('--delay', `${innerWidth > 700 ? (i % 2) * 70 : 0}ms`);
       observer.observe(el);
     });

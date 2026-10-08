@@ -1,0 +1,747 @@
+{
+  "Início": {
+    "pt": "Início",
+    "en": "Home",
+    "es": "Inicio"
+  },
+  "Projetos": {
+    "pt": "Projetos",
+    "en": "Projects",
+    "es": "Proyectos"
+  },
+  "Sobre": {
+    "pt": "Sobre",
+    "en": "About",
+    "es": "Sobre mí"
+  },
+  "Contato": {
+    "pt": "Contato",
+    "en": "Contact",
+    "es": "Contacto"
+  },
+  "Pular para conteúdo": {
+    "pt": "Pular para conteúdo",
+    "en": "Skip to content",
+    "es": "Saltar al contenido"
+  },
+  "Navegação principal": {
+    "pt": "Navegação principal",
+    "en": "Main navigation",
+    "es": "Navegación principal"
+  },
+  "Portfólio pessoal": {
+    "pt": "Portfólio pessoal",
+    "en": "Personal portfolio",
+    "es": "Portafolio personal"
+  },
+  "Menu ☰": {
+    "pt": "Menu ☰",
+    "en": "Menu ☰",
+    "es": "Menú ☰"
+  },
+  "Fechar ×": {
+    "pt": "Fechar ×",
+    "en": "Close ×",
+    "es": "Cerrar ×"
+  },
+  "Abrir menu": {
+    "pt": "Abrir menu",
+    "en": "Open menu",
+    "es": "Abrir menú"
+  },
+  "Fechar menu": {
+    "pt": "Fechar menu",
+    "en": "Close menu",
+    "es": "Cerrar menú"
+  },
+  "Fechar": {
+    "pt": "Fechar",
+    "en": "Close",
+    "es": "Cerrar"
+  },
+  "PORTFÓLIO PESSOAL / DESIGN & CRIATIVIDADE": {
+    "pt": "PORTFÓLIO PESSOAL / DESIGN & CRIATIVIDADE",
+    "en": "PERSONAL PORTFOLIO / DESIGN & CREATIVITY",
+    "es": "PORTAFOLIO PERSONAL / DISEÑO Y CREATIVIDAD"
+  },
+  "Ideias com alma.": {
+    "pt": "Ideias com alma.",
+    "en": "Ideas with soul.",
+    "es": "Ideas con alma."
+  },
+  "Design com": {
+    "pt": "Design com",
+    "en": "Design with",
+    "es": "Diseño con"
+  },
+  "intenção.": {
+    "pt": "intenção.",
+    "en": "intention.",
+    "es": "intención."
+  },
+  "Um olhar curioso para transformar ideias em experiências visuais claras, sensíveis e memoráveis.": {
+    "pt": "Um olhar curioso para transformar ideias em experiências visuais claras, sensíveis e memoráveis.",
+    "en": "A curious perspective that turns ideas into clear, thoughtful and memorable visual experiences.",
+    "es": "Una mirada curiosa para transformar ideas en experiencias visuales claras, sensibles y memorables."
+  },
+  "Explore os projetos ↓": {
+    "pt": "Explore os projetos ↓",
+    "en": "Explore the projects ↓",
+    "es": "Explora los proyectos ↓"
+  },
+  "UM POUCO DE RAZÃO. UM TANTO DE INTUIÇÃO.": {
+    "pt": "UM POUCO DE RAZÃO. UM TANTO DE INTUIÇÃO.",
+    "en": "A LITTLE REASON. A TOUCH OF INTUITION.",
+    "es": "UN POCO DE RAZÓN. UN TOQUE DE INTUICIÓN."
+  },
+  "Projetos em perspectiva.": {
+    "pt": "Projetos em perspectiva.",
+    "en": "Projects in perspective.",
+    "es": "Proyectos en perspectiva."
+  },
+  "Todos os projetos ↗": {
+    "pt": "Todos os projetos ↗",
+    "en": "All projects ↗",
+    "es": "Todos los proyectos ↗"
+  },
+  "Todos os projetos": {
+    "pt": "Todos os projetos",
+    "en": "All projects",
+    "es": "Todos los proyectos"
+  },
+  "01 / SOBRE": {
+    "pt": "01 / SOBRE",
+    "en": "01 / ABOUT",
+    "es": "01 / SOBRE MÍ"
+  },
+  "Curiosidade como ponto de partida.": {
+    "pt": "Curiosidade como ponto de partida.",
+    "en": "Curiosity as a starting point.",
+    "es": "La curiosidad como punto de partida."
+  },
+  "Intenção em cada detalhe.": {
+    "pt": "Intenção em cada detalhe.",
+    "en": "Intention in every detail.",
+    "es": "Intención en cada detalle."
+  },
+  "Sou Gabriel Teixeira e crio sites. Conheça um pouco da minha trajetória e de como desenvolvo meus projetos.": {
+    "pt": "Sou Gabriel Teixeira e crio sites. Conheça um pouco da minha trajetória e de como desenvolvo meus projetos.",
+    "en": "I'm Gabriel Teixeira and I create websites. Discover my journey and how I develop my projects.",
+    "es": "Soy Gabriel Teixeira y creo sitios web. Conoce mi trayectoria y cómo desarrollo mis proyectos."
+  },
+  "Conheça minha história ↗": {
+    "pt": "Conheça minha história ↗",
+    "en": "Discover my story ↗",
+    "es": "Conoce mi historia ↗"
+  },
+  "UM RECORTE DO MEU UNIVERSO CRIATIVO": {
+    "pt": "UM RECORTE DO MEU UNIVERSO CRIATIVO",
+    "en": "A GLIMPSE INTO MY CREATIVE WORLD",
+    "es": "UNA MIRADA A MI UNIVERSO CREATIVO"
+  },
+  "Ideias que": {
+    "pt": "Ideias que",
+    "en": "Ideas that",
+    "es": "Ideas que"
+  },
+  "ganharam forma.": {
+    "pt": "ganharam forma.",
+    "en": "took shape.",
+    "es": "tomaron forma."
+  },
+  "Uma seleção de projetos, processos e possibilidades.": {
+    "pt": "Uma seleção de projetos, processos e possibilidades.",
+    "en": "A selection of projects, processes and possibilities.",
+    "es": "Una selección de proyectos, procesos y posibilidades."
+  },
+  "Filtrar projetos": {
+    "pt": "Filtrar projetos",
+    "en": "Filter projects",
+    "es": "Filtrar proyectos"
+  },
+  "Ver Vértice Racing": {
+    "pt": "Ver Vértice Racing",
+    "en": "View Vértice Racing",
+    "es": "Ver Vértice Racing"
+  },
+  "Ver Gym Project": {
+    "pt": "Ver Gym Project",
+    "en": "View Gym Project",
+    "es": "Ver Gym Project"
+  },
+  "CAPA PROVISÓRIA / DIREÇÃO VISUAL": {
+    "pt": "CAPA PROVISÓRIA / DIREÇÃO VISUAL",
+    "en": "PLACEHOLDER COVER / VISUAL DIRECTION",
+    "es": "PORTADA PROVISIONAL / DIRECCIÓN VISUAL"
+  },
+  "ACADEMIA / EM DESENVOLVIMENTO": {
+    "pt": "ACADEMIA / EM DESENVOLVIMENTO",
+    "en": "GYM / IN DEVELOPMENT",
+    "es": "GIMNASIO / EN DESARROLLO"
+  },
+  "VÉRTICE RACING / UX & UI CASE STUDY": {
+    "pt": "VÉRTICE RACING / ESTUDO DE CASO UX & UI",
+    "en": "VÉRTICE RACING / UX & UI CASE STUDY",
+    "es": "VÉRTICE RACING / CASO DE ESTUDIO UX & UI"
+  },
+  "Um projeto de academia que será desenvolvido. Esta capa é uma proposta visual provisória.": {
+    "pt": "Um projeto de academia que será desenvolvido. Esta capa é uma proposta visual provisória.",
+    "en": "A gym website project to be developed. This cover is a preliminary visual concept.",
+    "es": "Un proyecto de sitio web para un gimnasio que se desarrollará. Esta portada es una propuesta visual provisional."
+  },
+  "SOBRE MIM": {
+    "pt": "SOBRE MIM",
+    "en": "ABOUT ME",
+    "es": "SOBRE MÍ"
+  },
+  "QUEM SOU": {
+    "pt": "QUEM SOU",
+    "en": "WHO I AM",
+    "es": "QUIÉN SOY"
+  },
+  "Espaço reservado para minha foto": {
+    "pt": "Espaço reservado para minha foto",
+    "en": "Space reserved for my photo",
+    "es": "Espacio reservado para mi foto"
+  },
+  "COMO EU TRABALHO": {
+    "pt": "COMO EU TRABALHO",
+    "en": "HOW I WORK",
+    "es": "CÓMO TRABAJO"
+  },
+  "Da referência à experiência.": {
+    "pt": "Da referência à experiência.",
+    "en": "From reference to experience.",
+    "es": "De la referencia a la experiencia."
+  },
+  "Começo pelas referências visuais, organizo as páginas no Figma e levo o projeto para uma versão navegável. A partir dela, refino o visual, a tipografia, as cores e as animações.": {
+    "pt": "Começo pelas referências visuais, organizo as páginas no Figma e levo o projeto para uma versão navegável. A partir dela, refino o visual, a tipografia, as cores e as animações.",
+    "en": "I start with visual references, organize the pages in Figma and turn the project into a working website. From there, I refine the visuals, typography, colors and animations.",
+    "es": "Empiezo por las referencias visuales, organizo las páginas en Figma y convierto el proyecto en una versión navegable. A partir de ella, refino el diseño, la tipografía, los colores y las animaciones."
+  },
+  "CONTATO": {
+    "pt": "CONTATO",
+    "en": "CONTACT",
+    "es": "CONTACTO"
+  },
+  "Onde me encontrar.": {
+    "pt": "Onde me encontrar.",
+    "en": "Where to find me.",
+    "es": "Dónde encontrarme."
+  },
+  "E-MAIL": {
+    "pt": "E-MAIL",
+    "en": "EMAIL",
+    "es": "CORREO ELECTRÓNICO"
+  },
+  "Copiar e-mail": {
+    "pt": "Copiar e-mail",
+    "en": "Copy email",
+    "es": "Copiar correo electrónico"
+  },
+  "E-mail copiado!": {
+    "pt": "E-mail copiado!",
+    "en": "Email copied!",
+    "es": "¡Correo copiado!"
+  },
+  "Não foi possível copiar automaticamente. Selecione o e-mail acima para copiar.": {
+    "pt": "Não foi possível copiar automaticamente. Selecione o e-mail acima para copiar.",
+    "en": "Couldn't copy automatically. Select the email above to copy it.",
+    "es": "No se pudo copiar automáticamente. Selecciona el correo de arriba para copiarlo."
+  },
+  "E-mail a adicionar": {
+    "pt": "E-mail a adicionar",
+    "en": "Email to be added",
+    "es": "Correo pendiente"
+  },
+  "Continue explorando.": {
+    "pt": "Continue explorando.",
+    "en": "Keep exploring.",
+    "es": "Sigue explorando."
+  },
+  "Visitar site do projeto ↗": {
+    "pt": "Visitar site do projeto ↗",
+    "en": "Visit project website ↗",
+    "es": "Visitar sitio del proyecto ↗"
+  },
+  "Voltar aos projetos ↗": {
+    "pt": "Voltar aos projetos ↗",
+    "en": "Back to projects ↗",
+    "es": "Volver a los proyectos ↗"
+  },
+  "← Voltar aos projetos": {
+    "pt": "← Voltar aos projetos",
+    "en": "← Back to projects",
+    "es": "← Volver a los proyectos"
+  },
+  "Voltar à página inicial ↗": {
+    "pt": "Voltar à página inicial ↗",
+    "en": "Back to Home ↗",
+    "es": "Volver al inicio ↗"
+  },
+  "Sol dourado sobre um mar de linhas, em uma moldura arqueada.": {
+    "pt": "Sol dourado sobre um mar de linhas, em uma moldura arqueada.",
+    "en": "Golden sun above a sea of lines in an arched frame.",
+    "es": "Sol dorado sobre un mar de líneas en un marco arqueado."
+  },
+  "Colagem de automobilismo com pilotos, equipe e carro de corrida em preto e verde neon.": {
+    "pt": "Colagem de automobilismo com pilotos, equipe e carro de corrida em preto e verde neon.",
+    "en": "Motorsport collage with drivers, team and race car in black and neon green.",
+    "es": "Collage de automovilismo con pilotos, equipo y coche de carreras en negro y verde neón."
+  },
+  "Nasci em Angra dos Reis, no Rio de Janeiro, e ao longo da minha trajetória tive a oportunidade de morar em diferentes cidades, tanto no estado do Rio quanto em Salvador. Essas mudanças me permitiram conhecer novos lugares, pessoas e realidades, experiências que também contribuíram para a pessoa que sou hoje.": {
+    "pt": "Nasci em Angra dos Reis, no Rio de Janeiro, e ao longo da minha trajetória tive a oportunidade de morar em diferentes cidades, tanto no estado do Rio quanto em Salvador. Essas mudanças me permitiram conhecer novos lugares, pessoas e realidades, experiências que também contribuíram para a pessoa que sou hoje.",
+    "en": "I was born in Angra dos Reis, Rio de Janeiro, and along my journey I had the opportunity to live in different cities, both in the state of Rio and in Salvador. These moves allowed me to discover new places, people and ways of life, experiences that helped shape who I am today.",
+    "es": "Nací en Angra dos Reis, en Río de Janeiro, y a lo largo de mi trayectoria tuve la oportunidad de vivir en diferentes ciudades, tanto en el estado de Río como en Salvador. Estos cambios me permitieron conocer nuevos lugares, personas y realidades, experiencias que también contribuyeron a la persona que soy hoy."
+  },
+  "Minha trajetória profissional começou de um jeito um pouco diferente. Antes de entrar no universo da tecnologia, segui carreira militar, uma experiência importante para o meu desenvolvimento pessoal e profissional.": {
+    "pt": "Minha trajetória profissional começou de um jeito um pouco diferente. Antes de entrar no universo da tecnologia, segui carreira militar, uma experiência importante para o meu desenvolvimento pessoal e profissional.",
+    "en": "My professional journey began in a somewhat different way. Before entering the world of technology, I pursued a military career, an important experience for my personal and professional development.",
+    "es": "Mi trayectoria profesional comenzó de una manera un poco diferente. Antes de entrar en el mundo de la tecnología, seguí una carrera militar, una experiencia importante para mi desarrollo personal y profesional."
+  },
+  "Sempre fui uma pessoa curiosa, mas foi nos últimos anos que essa curiosidade começou a se transformar em algo maior. Depois de encerrar minha carreira militar, comecei a explorar mais profundamente o mundo da tecnologia e encontrei uma área cheia de possibilidades, aprendizado constante e oportunidades de crescimento.": {
+    "pt": "Sempre fui uma pessoa curiosa, mas foi nos últimos anos que essa curiosidade começou a se transformar em algo maior. Depois de encerrar minha carreira militar, comecei a explorar mais profundamente o mundo da tecnologia e encontrei uma área cheia de possibilidades, aprendizado constante e oportunidades de crescimento.",
+    "en": "I've always been curious, but in recent years that curiosity started to become something bigger. After ending my military career, I began exploring the world of technology more deeply and discovered a field full of possibilities, constant learning and opportunities for growth.",
+    "es": "Siempre he sido una persona curiosa, pero en los últimos años esa curiosidad empezó a convertirse en algo mayor. Después de finalizar mi carrera militar, comencé a explorar más profundamente el mundo de la tecnología y encontré un área llena de posibilidades, aprendizaje constante y oportunidades de crecimiento."
+  },
+  "Hoje curso Análise e Desenvolvimento de Sistemas e também tenho conhecimentos em UX Design. Gosto de entender como as coisas funcionam, explorar novas ferramentas e descobrir diferentes possibilidades dentro da tecnologia, sempre buscando evoluir e aprender algo novo.": {
+    "pt": "Hoje curso Análise e Desenvolvimento de Sistemas e também tenho conhecimentos em UX Design. Gosto de entender como as coisas funcionam, explorar novas ferramentas e descobrir diferentes possibilidades dentro da tecnologia, sempre buscando evoluir e aprender algo novo.",
+    "en": "I'm currently studying Systems Analysis and Development and also have knowledge of UX Design. I enjoy understanding how things work, exploring new tools and discovering different possibilities within technology, always looking to grow and learn something new.",
+    "es": "Actualmente estudio Análisis y Desarrollo de Sistemas y también tengo conocimientos de Diseño UX. Me gusta entender cómo funcionan las cosas, explorar nuevas herramientas y descubrir diferentes posibilidades dentro de la tecnología, buscando siempre evolucionar y aprender algo nuevo."
+  },
+  "Fora das telas, sou uma pessoa comunicativa, bem-humorada e que gosta de viver novas experiências. Academia e viagens fazem parte da minha rotina, assim como a música — principalmente eventos e festas de música eletrônica.": {
+    "pt": "Fora das telas, sou uma pessoa comunicativa, bem-humorada e que gosta de viver novas experiências. Academia e viagens fazem parte da minha rotina, assim como a música — principalmente eventos e festas de música eletrônica.",
+    "en": "Away from screens, I'm outgoing, good-humored and enjoy new experiences. Working out and traveling are part of my routine, as is music — especially electronic music events and parties.",
+    "es": "Fuera de las pantallas, soy una persona comunicativa, de buen humor y a la que le gusta vivir nuevas experiencias. El gimnasio y los viajes forman parte de mi rutina, al igual que la música — principalmente los eventos y las fiestas de música electrónica."
+  },
+  "Minha história ainda está sendo construída. Quero continuar explorando diferentes caminhos dentro da tecnologia, desenvolvendo minhas habilidades e transformando minha curiosidade em projetos, experiências e novas oportunidades.": {
+    "pt": "Minha história ainda está sendo construída. Quero continuar explorando diferentes caminhos dentro da tecnologia, desenvolvendo minhas habilidades e transformando minha curiosidade em projetos, experiências e novas oportunidades.",
+    "en": "My story is still being written. I want to keep exploring different paths in technology, developing my skills and turning my curiosity into projects, experiences and new opportunities.",
+    "es": "Mi historia aún se está construyendo. Quiero seguir explorando diferentes caminos dentro de la tecnología, desarrollando mis habilidades y transformando mi curiosidad en proyectos, experiencias y nuevas oportunidades."
+  },
+  "PERSONAL CONCEPT / UX & UI / MOTORSPORT": {
+    "pt": "CONCEITO PESSOAL / UX & UI / AUTOMOBILISMO",
+    "en": "PERSONAL CONCEPT / UX & UI / MOTORSPORT",
+    "es": "CONCEPTO PERSONAL / UX & UI / AUTOMOVILISMO"
+  },
+  "From a fictional racing team to a complete digital experience.": {
+    "pt": "De uma equipe de corrida fictícia a uma experiência digital completa.",
+    "en": "From a fictional racing team to a complete digital experience.",
+    "es": "De un equipo de carreras ficticio a una experiencia digital completa."
+  },
+  "Vértice Racing is a personal portfolio project exploring how a motorsport brand can express its identity through design, storytelling and motion.": {
+    "pt": "Vértice Racing é um projeto pessoal de portfólio que explora como uma marca de automobilismo pode expressar sua identidade por meio de design, narrativa e movimento.",
+    "en": "Vértice Racing is a personal portfolio project exploring how a motorsport brand can express its identity through design, storytelling and motion.",
+    "es": "Vértice Racing es un proyecto personal de portafolio que explora cómo una marca de automovilismo puede expresar su identidad mediante diseño, narrativa y movimiento."
+  },
+  "The concept brings a fictional Brazilian racing team to life through a responsive website. Beyond introducing the team, the experience connects its story, drivers, car and season into a cohesive digital presence.": {
+    "pt": "O conceito dá vida a uma equipe brasileira de corrida fictícia por meio de um site responsivo. Além de apresentar a equipe, a experiência conecta sua história, pilotos, carro e temporada em uma presença digital coesa.",
+    "en": "The concept brings a fictional Brazilian racing team to life through a responsive website. Beyond introducing the team, the experience connects its story, drivers, car and season into a cohesive digital presence.",
+    "es": "El concepto da vida a un equipo brasileño de carreras ficticio mediante un sitio web adaptable. Además de presentar al equipo, la experiencia conecta su historia, pilotos, coche y temporada en una presencia digital coherente."
+  },
+  "Project type": {
+    "pt": "Tipo de projeto",
+    "en": "Project type",
+    "es": "Tipo de proyecto"
+  },
+  "Personal concept project": {
+    "pt": "Projeto conceitual pessoal",
+    "en": "Personal concept project",
+    "es": "Proyecto conceptual personal"
+  },
+  "Scope": {
+    "pt": "Escopo",
+    "en": "Scope",
+    "es": "Alcance"
+  },
+  "UI design, prototyping, frontend implementation and deployment": {
+    "pt": "Design de UI, prototipação, implementação frontend e publicação",
+    "en": "UI design, prototyping, frontend implementation and deployment",
+    "es": "Diseño UI, prototipado, implementación frontend y publicación"
+  },
+  "Tools": {
+    "pt": "Ferramentas",
+    "en": "Tools",
+    "es": "Herramientas"
+  },
+  "Figma, ChatGPT/Codex, HTML, CSS, JavaScript, GitHub and Vercel": {
+    "pt": "Figma, ChatGPT/Codex, HTML, CSS, JavaScript, GitHub e Vercel",
+    "en": "Figma, ChatGPT/Codex, HTML, CSS, JavaScript, GitHub and Vercel",
+    "es": "Figma, ChatGPT/Codex, HTML, CSS, JavaScript, GitHub y Vercel"
+  },
+  "The challenge": {
+    "pt": "O desafio",
+    "en": "The challenge",
+    "es": "El desafío"
+  },
+  "The goal was to create more than a visually striking homepage. The website needed to feel like a complete team experience, giving visitors clear paths to explore its people, engineering and competitive ambitions.": {
+    "pt": "O objetivo era criar mais do que uma página inicial visualmente marcante. O site precisava oferecer uma experiência completa da equipe, com caminhos claros para explorar suas pessoas, engenharia e ambições competitivas.",
+    "en": "The goal was to create more than a visually striking homepage. The website needed to feel like a complete team experience, giving visitors clear paths to explore its people, engineering and competitive ambitions.",
+    "es": "El objetivo era crear algo más que una página de inicio visualmente impactante. El sitio debía ofrecer una experiencia completa del equipo, con caminos claros para explorar sus integrantes, ingeniería y ambiciones competitivas."
+  },
+  "The design had to balance the energy of motorsport with readable content, intuitive navigation and a consistent experience across desktop and mobile.": {
+    "pt": "O design precisava equilibrar a energia do automobilismo com conteúdo legível, navegação intuitiva e uma experiência consistente no desktop e no celular.",
+    "en": "The design had to balance the energy of motorsport with readable content, intuitive navigation and a consistent experience across desktop and mobile.",
+    "es": "El diseño debía equilibrar la energía del automovilismo con contenido legible, navegación intuitiva y una experiencia coherente en ordenadores y móviles."
+  },
+  "The visual direction": {
+    "pt": "A direção visual",
+    "en": "The visual direction",
+    "es": "La dirección visual"
+  },
+  "The identity combines dark backgrounds, lime-green accents and bold, condensed typography. Large headlines establish a confident voice, while racing imagery creates context and atmosphere.": {
+    "pt": "A identidade combina fundos escuros, detalhes em verde-lima e tipografia condensada e marcante. Títulos grandes estabelecem uma voz confiante, enquanto as imagens de corrida criam contexto e atmosfera.",
+    "en": "The identity combines dark backgrounds, lime-green accents and bold, condensed typography. Large headlines establish a confident voice, while racing imagery creates context and atmosphere.",
+    "es": "La identidad combina fondos oscuros, detalles en verde lima y tipografía condensada y llamativa. Los grandes titulares establecen una voz segura, mientras las imágenes de carreras crean contexto y ambiente."
+  },
+  "That visual language carries through every page, from driver biographies to technical specifications and season results. Repeated components, spacing patterns and typography keep the experience consistent as the content changes.": {
+    "pt": "Essa linguagem visual percorre todas as páginas, das biografias dos pilotos às especificações técnicas e aos resultados da temporada. Componentes recorrentes, padrões de espaçamento e tipografia mantêm a experiência consistente conforme o conteúdo muda.",
+    "en": "That visual language carries through every page, from driver biographies to technical specifications and season results. Repeated components, spacing patterns and typography keep the experience consistent as the content changes.",
+    "es": "Ese lenguaje visual recorre todas las páginas, desde las biografías de los pilotos hasta las especificaciones técnicas y los resultados de la temporada. Los componentes recurrentes, los patrones de espaciado y la tipografía mantienen la coherencia mientras cambia el contenido."
+  },
+  "Building the experience": {
+    "pt": "Construindo a experiência",
+    "en": "Building the experience",
+    "es": "Construyendo la experiencia"
+  },
+  "The website is organized into six connected pages:": {
+    "pt": "O site está organizado em seis páginas conectadas:",
+    "en": "The website is organized into six connected pages:",
+    "es": "El sitio está organizado en seis páginas conectadas:"
+  },
+  "Home: An introduction to the brand, its ambition and the main areas of the website.": {
+    "pt": "Início: Uma introdução à marca, à sua ambição e às principais áreas do site.",
+    "en": "Home: An introduction to the brand, its ambition and the main areas of the website.",
+    "es": "Inicio: Una introducción a la marca, su ambición y las principales áreas del sitio."
+  },
+  "The Team: The fictional origins, development timeline and values behind Vértice.": {
+    "pt": "A equipe: As origens fictícias, a linha do tempo de desenvolvimento e os valores da Vértice.",
+    "en": "The Team: The fictional origins, development timeline and values behind Vértice.",
+    "es": "El equipo: Los orígenes ficticios, la cronología de desarrollo y los valores de Vértice."
+  },
+  "The Car: An overview of the VR–01 concept, its specifications and engineering approach.": {
+    "pt": "O carro: Uma visão geral do conceito VR–01, suas especificações e abordagem de engenharia.",
+    "en": "The Car: An overview of the VR–01 concept, its specifications and engineering approach.",
+    "es": "El coche: Una visión general del concepto VR–01, sus especificaciones y enfoque de ingeniería."
+  },
+  "Drivers: Individual stories and portraits of Lucas Andrade and Maya Costa.": {
+    "pt": "Pilotos: Histórias individuais e retratos de Lucas Andrade e Maya Costa.",
+    "en": "Drivers: Individual stories and portraits of Lucas Andrade and Maya Costa.",
+    "es": "Pilotos: Historias individuales y retratos de Lucas Andrade y Maya Costa."
+  },
+  "Season: A demonstration calendar, race results and driver performance.": {
+    "pt": "Temporada: Um calendário demonstrativo, resultados de corridas e desempenho dos pilotos.",
+    "en": "Season: A demonstration calendar, race results and driver performance.",
+    "es": "Temporada: Un calendario de demostración, resultados de carreras y rendimiento de los pilotos."
+  },
+  "Gallery: A visual collection of racing moments, garage activity and team celebrations.": {
+    "pt": "Galeria: Uma coleção visual de momentos de corrida, atividades na garagem e celebrações da equipe.",
+    "en": "Gallery: A visual collection of racing moments, garage activity and team celebrations.",
+    "es": "Galería: Una colección visual de momentos de carreras, actividad en el garaje y celebraciones del equipo."
+  },
+  "Each page adds another layer to the story while maintaining familiar navigation and a shared visual structure.": {
+    "pt": "Cada página acrescenta uma camada à história, mantendo uma navegação familiar e uma estrutura visual compartilhada.",
+    "en": "Each page adds another layer to the story while maintaining familiar navigation and a shared visual structure.",
+    "es": "Cada página añade una capa a la historia, manteniendo una navegación familiar y una estructura visual compartida."
+  },
+  "My workflow": {
+    "pt": "Meu processo de trabalho",
+    "en": "My workflow",
+    "es": "Mi proceso de trabajo"
+  },
+  "1. Concept and content structure": {
+    "pt": "1. Conceito e estrutura do conteúdo",
+    "en": "1. Concept and content structure",
+    "es": "1. Concepto y estructura del contenido"
+  },
+  "I started by defining the fictional team, its personality and the information visitors would need to understand it. This provided a foundation for the page structure, navigation and storytelling.": {
+    "pt": "Comecei definindo a equipe fictícia, sua personalidade e as informações necessárias para que os visitantes a conhecessem. Isso criou a base para a estrutura das páginas, a navegação e a narrativa.",
+    "en": "I started by defining the fictional team, its personality and the information visitors would need to understand it. This provided a foundation for the page structure, navigation and storytelling.",
+    "es": "Empecé definiendo el equipo ficticio, su personalidad y la información que los visitantes necesitarían para conocerlo. Esto creó la base para la estructura de las páginas, la navegación y la narrativa."
+  },
+  "2. Interface design in Figma": {
+    "pt": "2. Design de interface no Figma",
+    "en": "2. Interface design in Figma",
+    "es": "2. Diseño de interfaz en Figma"
+  },
+  "Figma was used to develop the visual direction and page layouts. The design explored typography, color, imagery and reusable interface patterns before moving into implementation.": {
+    "pt": "Usei o Figma para desenvolver a direção visual e os layouts das páginas. O design explorou tipografia, cores, imagens e padrões de interface reutilizáveis antes da implementação.",
+    "en": "Figma was used to develop the visual direction and page layouts. The design explored typography, color, imagery and reusable interface patterns before moving into implementation.",
+    "es": "Utilicé Figma para desarrollar la dirección visual y los diseños de las páginas. El diseño exploró tipografía, colores, imágenes y patrones de interfaz reutilizables antes de la implementación."
+  },
+  "3. AI-assisted development": {
+    "pt": "3. Desenvolvimento com auxílio de IA",
+    "en": "3. AI-assisted development",
+    "es": "3. Desarrollo con ayuda de IA"
+  },
+  "I used ChatGPT and Codex to support content development, implementation and iterative refinements. My role was to guide the creative direction, define the requirements and review the experience as it evolved.": {
+    "pt": "Usei o ChatGPT e o Codex como apoio na criação de conteúdo, na implementação e nos refinamentos iterativos. Meu papel foi orientar a direção criativa, definir os requisitos e revisar a experiência durante sua evolução.",
+    "en": "I used ChatGPT and Codex to support content development, implementation and iterative refinements. My role was to guide the creative direction, define the requirements and review the experience as it evolved.",
+    "es": "Utilicé ChatGPT y Codex como apoyo en la creación de contenido, la implementación y las mejoras iterativas. Mi papel fue orientar la dirección creativa, definir los requisitos y revisar la experiencia durante su evolución."
+  },
+  "The website was implemented with HTML, CSS and vanilla JavaScript, without a frontend framework or runtime dependencies.": {
+    "pt": "O site foi implementado com HTML, CSS e JavaScript puro, sem framework frontend ou dependências de execução.",
+    "en": "The website was implemented with HTML, CSS and vanilla JavaScript, without a frontend framework or runtime dependencies.",
+    "es": "El sitio se implementó con HTML, CSS y JavaScript puro, sin framework frontend ni dependencias de ejecución."
+  },
+  "4. Motion and interaction": {
+    "pt": "4. Movimento e interação",
+    "en": "4. Motion and interaction",
+    "es": "4. Movimiento e interacción"
+  },
+  "Scroll reveals, subtle image movement and animated performance bars add movement throughout the website.": {
+    "pt": "Revelações ao rolar, movimentos sutis nas imagens e barras de desempenho animadas acrescentam movimento ao longo do site.",
+    "en": "Scroll reveals, subtle image movement and animated performance bars add movement throughout the website.",
+    "es": "Las apariciones al desplazarse, los movimientos sutiles de las imágenes y las barras de rendimiento animadas aportan movimiento a todo el sitio."
+  },
+  "A custom page transition combines a moving race car with an animated Vértice logo. Its duration was refined to 1.5 seconds to balance brand expression with the pace of navigation. The implementation also respects the visitor’s reduced-motion preference.": {
+    "pt": "Uma transição personalizada entre páginas combina um carro de corrida em movimento com a logo animada da Vértice. Sua duração foi ajustada para 1,5 segundo, equilibrando a expressão da marca com o ritmo da navegação. A implementação também respeita a preferência do visitante por movimento reduzido.",
+    "en": "A custom page transition combines a moving race car with an animated Vértice logo. Its duration was refined to 1.5 seconds to balance brand expression with the pace of navigation. The implementation also respects the visitor’s reduced-motion preference.",
+    "es": "Una transición personalizada entre páginas combina un coche de carreras en movimiento con el logotipo animado de Vértice. Su duración se ajustó a 1,5 segundos para equilibrar la expresión de la marca con el ritmo de navegación. La implementación también respeta la preferencia del visitante por movimiento reducido."
+  },
+  "5. Review and refinement": {
+    "pt": "5. Revisão e refinamento",
+    "en": "5. Review and refinement",
+    "es": "5. Revisión y mejoras"
+  },
+  "The process included reviewing mobile layouts, navigation, image presentation and text readability. For example, the homepage subtitle received a dark background treatment to improve contrast against the hero photograph.": {
+    "pt": "O processo incluiu revisar os layouts mobile, a navegação, a apresentação das imagens e a legibilidade dos textos. Por exemplo, o subtítulo da página inicial recebeu um fundo escuro para melhorar o contraste com a fotografia da hero.",
+    "en": "The process included reviewing mobile layouts, navigation, image presentation and text readability. For example, the homepage subtitle received a dark background treatment to improve contrast against the hero photograph.",
+    "es": "El proceso incluyó revisar los diseños móviles, la navegación, la presentación de las imágenes y la legibilidad de los textos. Por ejemplo, el subtítulo de la página inicial recibió un fondo oscuro para mejorar el contraste con la fotografía de la sección principal."
+  },
+  "The content was also adapted into English to make the project accessible to an international audience.": {
+    "pt": "O conteúdo também foi adaptado para o inglês para tornar o projeto acessível a um público internacional.",
+    "en": "The content was also adapted into English to make the project accessible to an international audience.",
+    "es": "El contenido también se adaptó al inglés para hacer el proyecto accesible a un público internacional."
+  },
+  "6. Publishing": {
+    "pt": "6. Publicação",
+    "en": "6. Publishing",
+    "es": "6. Publicación"
+  },
+  "The project files were organized in GitHub and deployed through Vercel. This established a repeatable workflow for publishing updates from the repository.": {
+    "pt": "Os arquivos do projeto foram organizados no GitHub e publicados pelo Vercel. Isso estabeleceu um processo repetível para publicar atualizações a partir do repositório.",
+    "en": "The project files were organized in GitHub and deployed through Vercel. This established a repeatable workflow for publishing updates from the repository.",
+    "es": "Los archivos del proyecto se organizaron en GitHub y se publicaron mediante Vercel. Esto estableció un proceso repetible para publicar actualizaciones desde el repositorio."
+  },
+  "The technical approach": {
+    "pt": "A abordagem técnica",
+    "en": "The technical approach",
+    "es": "El enfoque técnico"
+  },
+  "Shared page templates generate the six HTML pages, keeping common elements such as navigation and the footer consistent. CSS handles the visual system and responsive layouts, while JavaScript provides the interactive behavior.": {
+    "pt": "Templates compartilhados geram as seis páginas HTML, mantendo elementos comuns como a navegação e o rodapé consistentes. O CSS cuida do sistema visual e dos layouts responsivos, enquanto o JavaScript fornece o comportamento interativo.",
+    "en": "Shared page templates generate the six HTML pages, keeping common elements such as navigation and the footer consistent. CSS handles the visual system and responsive layouts, while JavaScript provides the interactive behavior.",
+    "es": "Las plantillas compartidas generan las seis páginas HTML, manteniendo coherentes elementos comunes como la navegación y el pie de página. CSS gestiona el sistema visual y los diseños adaptables, mientras JavaScript proporciona el comportamiento interactivo."
+  },
+  "Images and fonts are stored with the project. The core content and navigation remain accessible without JavaScript, with motion acting as an enhancement to the experience.": {
+    "pt": "As imagens e fontes são armazenadas junto ao projeto. O conteúdo principal e a navegação continuam acessíveis sem JavaScript, e o movimento funciona como uma melhoria da experiência.",
+    "en": "Images and fonts are stored with the project. The core content and navigation remain accessible without JavaScript, with motion acting as an enhancement to the experience.",
+    "es": "Las imágenes y fuentes se almacenan junto al proyecto. El contenido principal y la navegación siguen siendo accesibles sin JavaScript, y el movimiento funciona como una mejora de la experiencia."
+  },
+  "The result": {
+    "pt": "O resultado",
+    "en": "The result",
+    "es": "El resultado"
+  },
+  "The result is a complete portfolio website that demonstrates how a fictional brand can become a coherent digital experience through visual design, content structure and frontend implementation.": {
+    "pt": "O resultado é um site completo de portfólio que demonstra como uma marca fictícia pode se transformar em uma experiência digital coesa por meio de design visual, estrutura de conteúdo e implementação frontend.",
+    "en": "The result is a complete portfolio website that demonstrates how a fictional brand can become a coherent digital experience through visual design, content structure and frontend implementation.",
+    "es": "El resultado es un sitio completo de portafolio que demuestra cómo una marca ficticia puede convertirse en una experiencia digital coherente mediante diseño visual, estructura de contenido e implementación frontend."
+  },
+  "As a personal concept project, its outcome is demonstrated through the finished website rather than commercial performance metrics. It reflects my approach to connecting creative direction with implementation and refining the details that shape the user experience.": {
+    "pt": "Como projeto conceitual pessoal, seu resultado é demonstrado pelo site finalizado, em vez de métricas de desempenho comercial. Ele reflete minha abordagem de conectar direção criativa e implementação e refinar os detalhes que moldam a experiência do usuário.",
+    "en": "As a personal concept project, its outcome is demonstrated through the finished website rather than commercial performance metrics. It reflects my approach to connecting creative direction with implementation and refining the details that shape the user experience.",
+    "es": "Como proyecto conceptual personal, su resultado se demuestra mediante el sitio terminado, en lugar de métricas de rendimiento comercial. Refleja mi enfoque de conectar la dirección creativa con la implementación y mejorar los detalles que dan forma a la experiencia del usuario."
+  },
+  "Project note": {
+    "pt": "Nota sobre o projeto",
+    "en": "Project note",
+    "es": "Nota sobre el proyecto"
+  },
+  "Vértice Racing is an independent personal project created for portfolio purposes. The team, drivers, biographies, specifications and season results are fictional. Photography and driver portraits were generated with AI to support the concept.": {
+    "pt": "Vértice Racing é um projeto pessoal independente criado para fins de portfólio. A equipe, os pilotos, as biografias, as especificações e os resultados da temporada são fictícios. As fotografias e os retratos dos pilotos foram gerados com IA para apoiar o conceito.",
+    "en": "Vértice Racing is an independent personal project created for portfolio purposes. The team, drivers, biographies, specifications and season results are fictional. Photography and driver portraits were generated with AI to support the concept.",
+    "es": "Vértice Racing es un proyecto personal independiente creado con fines de portafolio. El equipo, los pilotos, las biografías, las especificaciones y los resultados de la temporada son ficticios. Las fotografías y los retratos de los pilotos se generaron con IA para apoyar el concepto."
+  },
+  "01 / THE RACING UNIVERSE": {
+    "pt": "01 / O UNIVERSO DAS CORRIDAS",
+    "en": "01 / THE RACING UNIVERSE",
+    "es": "01 / EL UNIVERSO DE LAS CARRERAS"
+  },
+  "02 / A SHARED VISUAL IDENTITY": {
+    "pt": "02 / UMA IDENTIDADE VISUAL COMPARTILHADA",
+    "en": "02 / A SHARED VISUAL IDENTITY",
+    "es": "02 / UNA IDENTIDAD VISUAL COMPARTIDA"
+  },
+  "04 / PLANNING & ITERATION": {
+    "pt": "04 / PLANEJAMENTO E ITERAÇÃO",
+    "en": "04 / PLANNING & ITERATION",
+    "es": "04 / PLANIFICACIÓN E ITERACIÓN"
+  },
+  "06 / PRECISION & COORDINATION": {
+    "pt": "06 / PRECISÃO E COORDENAÇÃO",
+    "en": "06 / PRECISION & COORDINATION",
+    "es": "06 / PRECISIÓN Y COORDINACIÓN"
+  },
+  "07 / THE COMPLETE TEAM STORY": {
+    "pt": "07 / A HISTÓRIA COMPLETA DA EQUIPE",
+    "en": "07 / THE COMPLETE TEAM STORY",
+    "es": "07 / LA HISTORIA COMPLETA DEL EQUIPO"
+  },
+  "Vértice Racing editorial collage with racing car, drivers and team in black and lime green.": {
+    "pt": "Colagem editorial da Vértice Racing com carro de corrida, pilotos e equipe em preto e verde-lima.",
+    "en": "Vértice Racing editorial collage with racing car, drivers and team in black and lime green.",
+    "es": "Collage editorial de Vértice Racing con coche de carreras, pilotos y equipo en negro y verde lima."
+  },
+  "Vértice concept race car on a circuit at sunset.": {
+    "pt": "Carro conceitual da Vértice em um circuito ao pôr do sol.",
+    "en": "Vértice concept race car on a circuit at sunset.",
+    "es": "Coche conceptual de Vértice en un circuito al atardecer."
+  },
+  "Mechanics preparing the black and lime-green Vértice race car.": {
+    "pt": "Mecânicos preparando o carro de corrida da Vértice em preto e verde-lima.",
+    "en": "Mechanics preparing the black and lime-green Vértice race car.",
+    "es": "Mecánicos preparando el coche de carreras de Vértice en negro y verde lima."
+  },
+  "Portrait of fictional driver Lucas Andrade holding his helmet.": {
+    "pt": "Retrato do piloto fictício Lucas Andrade segurando seu capacete.",
+    "en": "Portrait of fictional driver Lucas Andrade holding his helmet.",
+    "es": "Retrato del piloto ficticio Lucas Andrade sosteniendo su casco."
+  },
+  "Portrait of fictional driver Maya Costa holding her helmet.": {
+    "pt": "Retrato da piloto fictícia Maya Costa segurando seu capacete.",
+    "en": "Portrait of fictional driver Maya Costa holding her helmet.",
+    "es": "Retrato de la piloto ficticia Maya Costa sosteniendo su casco."
+  },
+  "Maya reviewing data on a tablet with a teammate.": {
+    "pt": "Maya analisando dados em um tablet com uma colega de equipe.",
+    "en": "Maya reviewing data on a tablet with a teammate.",
+    "es": "Maya revisando datos en una tableta con una compañera de equipo."
+  },
+  "Pit crew changing the tires of car number 07.": {
+    "pt": "Equipe de box trocando os pneus do carro número 07.",
+    "en": "Pit crew changing the tires of car number 07.",
+    "es": "Equipo de boxes cambiando los neumáticos del coche número 07."
+  },
+  "Maya celebrating with a trophy beside her team.": {
+    "pt": "Maya celebrando com um troféu ao lado de sua equipe.",
+    "en": "Maya celebrating with a trophy beside her team.",
+    "es": "Maya celebrando con un trofeo junto a su equipo."
+  },
+  "01 / CASE STUDY": {
+    "pt": "01 / ESTUDO DE CASO",
+    "en": "01 / CASE STUDY",
+    "es": "01 / CASO DE ESTUDIO"
+  },
+  "02 / CASE STUDY": {
+    "pt": "02 / ESTUDO DE CASO",
+    "en": "02 / CASE STUDY",
+    "es": "02 / CASO DE ESTUDIO"
+  },
+  "03 / CASE STUDY": {
+    "pt": "03 / ESTUDO DE CASO",
+    "en": "03 / CASE STUDY",
+    "es": "03 / CASO DE ESTUDIO"
+  },
+  "04 / CASE STUDY": {
+    "pt": "04 / ESTUDO DE CASO",
+    "en": "04 / CASE STUDY",
+    "es": "04 / CASO DE ESTUDIO"
+  },
+  "05 / CASE STUDY": {
+    "pt": "05 / ESTUDO DE CASO",
+    "en": "05 / CASE STUDY",
+    "es": "05 / CASO DE ESTUDIO"
+  },
+  "06 / CASE STUDY": {
+    "pt": "06 / ESTUDO DE CASO",
+    "en": "06 / CASE STUDY",
+    "es": "06 / CASO DE ESTUDIO"
+  },
+  "07 / CASE STUDY": {
+    "pt": "07 / ESTUDO DE CASO",
+    "en": "07 / CASE STUDY",
+    "es": "07 / CASO DE ESTUDIO"
+  },
+  "Vértice Racing — Case study": {
+    "pt": "Vértice Racing — Estudo de caso",
+    "en": "Vértice Racing — Case study",
+    "es": "Vértice Racing — Caso de estudio"
+  },
+  "Portfólio pessoal — Vértice Racing e Gym Project.": {
+    "pt": "Portfólio pessoal — Vértice Racing e Gym Project.",
+    "en": "Personal portfolio — Vértice Racing and Gym Project.",
+    "es": "Portafolio personal — Vértice Racing y Gym Project."
+  },
+  "Sou Gabriel Teixeira e transformo ideias em produtos digitais. Do conceito à interface, crio experiências para sites e aplicativos, unindo estratégia, design e tecnologia. Conheça minha trajetória e meu processo criativo.": {
+    "pt": "Sou Gabriel Teixeira e transformo ideias em produtos digitais. Do conceito à interface, crio experiências para sites e aplicativos, unindo estratégia, design e tecnologia. Conheça minha trajetória e meu processo criativo.",
+    "en": "I'm Gabriel Teixeira and I turn ideas into digital products. From concept to interface, I create experiences for websites and apps, combining strategy, design and technology. Discover my journey and creative process.",
+    "es": "Soy Gabriel Teixeira y transformo ideas en productos digitales. Del concepto a la interfaz, creo experiencias para sitios web y aplicaciones, combinando estrategia, diseño y tecnología. Conoce mi trayectoria y mi proceso creativo."
+  },
+  "Rapaz sentado no gramado usando um computador, em uma moldura Polaroid.": {
+    "pt": "Rapaz sentado no gramado usando um computador, em uma moldura Polaroid.",
+    "en": "Young man sitting on the grass using a computer, in a Polaroid frame.",
+    "es": "Joven sentado en el césped usando un ordenador, en un marco Polaroid."
+  },
+  "Da escuta à experiência.": {
+    "pt": "Da escuta à experiência.",
+    "en": "From listening to experience.",
+    "es": "De la escucha a la experiencia."
+  },
+  "Meu processo começa entendendo o que a marca quer transmitir e o que as pessoas precisam fazer. A partir dessa conversa, conecto criatividade, prototipação e tecnologia para criar sites e aplicativos com objetivos claros e caminhos fáceis de percorrer.": {
+    "pt": "Meu processo começa entendendo o que a marca quer transmitir e o que as pessoas precisam fazer. A partir dessa conversa, conecto criatividade, prototipação e tecnologia para criar sites e aplicativos com objetivos claros e caminhos fáceis de percorrer.",
+    "en": "My process starts by understanding what a brand wants to communicate and what people need to do. From that conversation, I connect creativity, prototyping and technology to create websites and apps with clear goals and easy-to-follow paths.",
+    "es": "Mi proceso comienza entendiendo qué quiere transmitir la marca y qué necesitan hacer las personas. A partir de esa conversación, conecto creatividad, prototipado y tecnología para crear sitios web y aplicaciones con objetivos claros y recorridos fáciles de seguir."
+  },
+  "Escutar e alinhar": {
+    "pt": "Escutar e alinhar",
+    "en": "Listen and align",
+    "es": "Escuchar y alinear"
+  },
+  "Começo com um briefing e uma conversa com o cliente. Procuro entender a mensagem da marca, as expectativas para o produto e as necessidades de quem vai usá-lo. Também alinho o escopo e prazos realistas, com espaço para desenvolver e refinar o projeto com cuidado.": {
+    "pt": "Começo com um briefing e uma conversa com o cliente. Procuro entender a mensagem da marca, as expectativas para o produto e as necessidades de quem vai usá-lo. Também alinho o escopo e prazos realistas, com espaço para desenvolver e refinar o projeto com cuidado.",
+    "en": "I start with a brief and a conversation with the client. I aim to understand the brand’s message, expectations for the product and the needs of its users. I also align the scope and realistic timelines, allowing room to develop and refine the project with care.",
+    "es": "Empiezo con un briefing y una conversación con el cliente. Busco entender el mensaje de la marca, las expectativas del producto y las necesidades de quienes lo utilizarán. También acuerdo el alcance y plazos realistas, con espacio para desarrollar y refinar el proyecto con cuidado."
+  },
+  "Explorar antes de desenhar a interface": {
+    "pt": "Explorar antes de desenhar a interface",
+    "en": "Explore before designing the interface",
+    "es": "Explorar antes de diseñar la interfaz"
+  },
+  "Uso desenhos à mão para organizar ideias e explorar possibilidades antes de partir para a interface. Busco referências na internet e combino esse repertório com minha criatividade para construir uma direção coerente com cada projeto.": {
+    "pt": "Uso desenhos à mão para organizar ideias e explorar possibilidades antes de partir para a interface. Busco referências na internet e combino esse repertório com minha criatividade para construir uma direção coerente com cada projeto.",
+    "en": "I use hand-drawn sketches to organize ideas and explore possibilities before moving to the interface. I gather references online and combine them with my creativity to build a direction that fits each project.",
+    "es": "Uso bocetos a mano para organizar ideas y explorar posibilidades antes de pasar a la interfaz. Busco referencias en internet y combino ese repertorio con mi creatividad para construir una dirección coherente con cada proyecto."
+  },
+  "Prototipar e construir junto": {
+    "pt": "Prototipar e construir junto",
+    "en": "Prototype and build together",
+    "es": "Prototipar y construir juntos"
+  },
+  "Organizo as interfaces em protótipos no Figma e compartilho a evolução com o cliente ao longo do projeto. Esses momentos permitem ouvir feedback, esclarecer decisões e fazer ajustes e aprovações por etapa. Também posso conduzir essas conversas em inglês.": {
+    "pt": "Organizo as interfaces em protótipos no Figma e compartilho a evolução com o cliente ao longo do projeto. Esses momentos permitem ouvir feedback, esclarecer decisões e fazer ajustes e aprovações por etapa. Também posso conduzir essas conversas em inglês.",
+    "en": "I organize interfaces into Figma prototypes and share progress with the client throughout the project. These checkpoints allow us to discuss feedback, clarify decisions and make adjustments and approvals at each stage. I can also conduct these conversations in English.",
+    "es": "Organizo las interfaces en prototipos en Figma y comparto los avances con el cliente durante el proyecto. Estos momentos permiten escuchar comentarios, aclarar decisiones y realizar ajustes y aprobaciones por etapa. También puedo mantener estas conversaciones en inglés."
+  },
+  "Dar vida e preparar a entrega": {
+    "pt": "Dar vida e preparar a entrega",
+    "en": "Bring it to life and prepare delivery",
+    "es": "Dar vida y preparar la entrega"
+  },
+  "Uso ferramentas de IA, como Codex e Claude Code, como apoio à implementação para transformar os protótipos em experiências navegáveis. Nos projetos web, organizo o código no GitHub e faço a publicação pelo Vercel.": {
+    "pt": "Uso ferramentas de IA, como Codex e Claude Code, como apoio à implementação para transformar os protótipos em experiências navegáveis. Nos projetos web, organizo o código no GitHub e faço a publicação pelo Vercel.",
+    "en": "I use AI tools such as Codex and Claude Code to support implementation and turn prototypes into navigable experiences. For web projects, I organize the code on GitHub and publish through Vercel.",
+    "es": "Uso herramientas de IA, como Codex y Claude Code, como apoyo a la implementación para transformar los prototipos en experiencias navegables. En los proyectos web, organizo el código en GitHub y publico mediante Vercel."
+  },
+  "UX orienta minhas decisões.": {
+    "pt": "UX orienta minhas decisões.",
+    "en": "UX guides my decisions.",
+    "es": "La UX guía mis decisiones."
+  },
+  "Meu foco é reduzir o esforço que a pessoa precisa fazer para entender o produto e chegar ao seu objetivo. Ouço os ajustes que o cliente propõe e explico as decisões de UX para que cada escolha vá além da aparência: o caminho precisa ser claro para quem usa.": {
+    "pt": "Meu foco é reduzir o esforço que a pessoa precisa fazer para entender o produto e chegar ao seu objetivo. Ouço os ajustes que o cliente propõe e explico as decisões de UX para que cada escolha vá além da aparência: o caminho precisa ser claro para quem usa.",
+    "en": "My focus is to reduce the effort people need to understand a product and reach their goal. I listen to the client’s proposed changes and explain UX decisions so that every choice goes beyond appearance: the path must be clear to the person using it.",
+    "es": "Mi enfoque es reducir el esfuerzo necesario para entender el producto y alcanzar un objetivo. Escucho los ajustes que propone el cliente y explico las decisiones de UX para que cada elección vaya más allá de la apariencia: el recorrido debe ser claro para quien lo utiliza."
+  }
+}
