@@ -165,9 +165,9 @@
     "es": "Ver Vértice Racing"
   },
   "Ver Gym Project": {
-    "pt": "Ver Gym Project",
-    "en": "View Gym Project",
-    "es": "Ver Gym Project"
+    "pt": "Ver VORA",
+    "en": "View VORA",
+    "es": "Ver VORA"
   },
   "CAPA PROVISÓRIA / DIREÇÃO VISUAL": {
     "pt": "CAPA PROVISÓRIA / DIREÇÃO VISUAL",
@@ -670,9 +670,9 @@
     "es": "Vértice Racing — Caso de estudio"
   },
   "Portfólio pessoal — Vértice Racing e Gym Project.": {
-    "pt": "Portfólio pessoal — Vértice Racing e Gym Project.",
-    "en": "Personal portfolio — Vértice Racing and Gym Project.",
-    "es": "Portafolio personal — Vértice Racing y Gym Project."
+    "pt": "Portfólio pessoal — Vértice Racing e VORA.",
+    "en": "Personal portfolio — Vértice Racing and VORA.",
+    "es": "Portafolio personal — Vértice Racing y VORA."
   },
   "Sou Gabriel Teixeira e transformo ideias em produtos digitais. Do conceito à interface, crio experiências para sites e aplicativos, unindo estratégia, design e tecnologia. Conheça minha trajetória e meu processo criativo.": {
     "pt": "Sou Gabriel Teixeira e transformo ideias em produtos digitais. Do conceito à interface, crio experiências para sites e aplicativos, unindo estratégia, design e tecnologia. Conheça minha trajetória e meu processo criativo.",
@@ -743,5 +743,275 @@
     "pt": "Meu foco é reduzir o esforço que a pessoa precisa fazer para entender o produto e chegar ao seu objetivo. Ouço os ajustes que o cliente propõe e explico as decisões de UX para que cada escolha vá além da aparência: o caminho precisa ser claro para quem usa.",
     "en": "My focus is to reduce the effort people need to understand a product and reach their goal. I listen to the client’s proposed changes and explain UX decisions so that every choice goes beyond appearance: the path must be clear to the person using it.",
     "es": "Mi enfoque es reducir el esfuerzo necesario para entender el producto y alcanzar un objetivo. Escucho los ajustes que propone el cliente y explico las decisiones de UX para que cada elección vaya más allá de la apariencia: el recorrido debe ser claro para quien lo utiliza."
+  },
+  "ACADEMIA CONCEITUAL / UX & UI": {
+    "pt": "ACADEMIA CONCEITUAL / UX & UI",
+    "en": "CONCEPT GYM / UX & UI",
+    "es": "GIMNASIO CONCEPTUAL / UX & UI"
+  },
+  "Uma academia fictícia. Uma experiência digital com propósito.": {
+    "pt": "Uma academia fictícia. Uma experiência digital com propósito.",
+    "en": "A fictional gym. A digital experience with purpose.",
+    "es": "Un gimnasio ficticio. Una experiencia digital con propósito."
+  },
+  "Criei a VORA como um projeto de portfólio para demonstrar o tipo de experiência digital que posso desenvolver para clientes do setor fitness. O objetivo foi reunir as informações da academia em um site funcional, com caminhos claros para conhecer os planos e encontrar uma unidade.": {
+    "pt": "Criei a VORA como um projeto de portfólio para demonstrar o tipo de experiência digital que posso desenvolver para clientes do setor fitness. O objetivo foi reunir as informações da academia em um site funcional, com caminhos claros para conhecer os planos e encontrar uma unidade.",
+    "en": "I created VORA as a portfolio project to demonstrate the digital experience I can develop for fitness clients. The goal was to bring gym information together in a functional website, with clear paths to explore plans and find a location.",
+    "es": "Creé VORA como un proyecto de portafolio para mostrar el tipo de experiencia digital que puedo desarrollar para clientes del sector fitness. El objetivo fue reunir la información del gimnasio en un sitio funcional, con recorridos claros para conocer los planes y encontrar una sede."
+  },
+  "O ponto de partida": {
+    "pt": "O ponto de partida",
+    "en": "The starting point",
+    "es": "El punto de partida"
+  },
+  "Antes de definir a interface, observei sites de academias populares no Brasil e padrões visuais recorrentes nesse mercado. Adaptei essas referências à VORA para criar uma experiência reconhecível, sem exigir que o visitante aprenda uma nova forma de navegar.": {
+    "pt": "Antes de definir a interface, observei sites de academias populares no Brasil e padrões visuais recorrentes nesse mercado. Adaptei essas referências à VORA para criar uma experiência reconhecível, sem exigir que o visitante aprenda uma nova forma de navegar.",
+    "en": "Before defining the interface, I looked at popular Brazilian gym websites and recurring visual patterns in this market. I adapted those references to VORA to create a familiar experience, without asking visitors to learn a new way to navigate.",
+    "es": "Antes de definir la interfaz, observé sitios de gimnasios populares de Brasil y patrones visuales recurrentes en ese mercado. Adapté esas referencias a VORA para crear una experiencia familiar, sin exigir que el visitante aprenda una nueva forma de navegar."
+  },
+  "Familiaridade com personalidade": {
+    "pt": "Familiaridade com personalidade",
+    "en": "Familiarity with personality",
+    "es": "Familiaridad con personalidad"
+  },
+  "A direção visual combina fundos claros, tons terrosos e fotografias dos ambientes. Busquei referências no Dribbble e em galerias de hero sections, navegação e rodapés para explorar a composição de cada parte do site, mantendo uma linguagem consistente.": {
+    "pt": "A direção visual combina fundos claros, tons terrosos e fotografias dos ambientes. Busquei referências no Dribbble e em galerias de hero sections, navegação e rodapés para explorar a composição de cada parte do site, mantendo uma linguagem consistente.",
+    "en": "The visual direction combines light backgrounds, earthy tones and images of the spaces. I explored Dribbble and galleries of hero sections, navigation and footers to shape each part of the website while maintaining a consistent visual language.",
+    "es": "La dirección visual combina fondos claros, tonos tierra e imágenes de los espacios. Busqué referencias en Dribbble y en galerías de hero sections, navegación y pies de página para explorar cada parte del sitio manteniendo un lenguaje visual coherente."
+  },
+  "Conhecer antes de escolher": {
+    "pt": "Conhecer antes de escolher",
+    "en": "Explore before choosing",
+    "es": "Conocer antes de elegir"
+  },
+  "Quis apresentar o contexto da academia, além de seus preços. As imagens dos ambientes e dos colaboradores ajudam a comunicar a proposta da marca. A página de espaços detalha musculação, cardio, dança e fisioterapia, aproximando o visitante da experiência imaginada para a VORA.": {
+    "pt": "Quis apresentar o contexto da academia, além de seus preços. As imagens dos ambientes e dos colaboradores ajudam a comunicar a proposta da marca. A página de espaços detalha musculação, cardio, dança e fisioterapia, aproximando o visitante da experiência imaginada para a VORA.",
+    "en": "I wanted to present the gym’s context beyond its prices. Images of the spaces and staff help communicate the brand’s proposition. The spaces page details strength training, cardio, dance and physiotherapy, bringing visitors closer to the experience envisioned for VORA.",
+    "es": "Quise presentar el contexto del gimnasio más allá de sus precios. Las imágenes de los espacios y del equipo ayudan a comunicar la propuesta de la marca. La página de espacios detalla musculación, cardio, danza y fisioterapia, acercando al visitante a la experiencia imaginada para VORA."
+  },
+  "Próximos passos claros": {
+    "pt": "Próximos passos claros",
+    "en": "Clear next steps",
+    "es": "Próximos pasos claros"
+  },
+  "Organizei as chamadas para ação em torno de dois objetivos: ver os planos e encontrar as unidades. Os três planos aparecem lado a lado no desktop, com benefícios descritos em listas. A intenção é facilitar a comparação e reduzir o esforço para decidir o próximo passo.": {
+    "pt": "Organizei as chamadas para ação em torno de dois objetivos: ver os planos e encontrar as unidades. Os três planos aparecem lado a lado no desktop, com benefícios descritos em listas. A intenção é facilitar a comparação e reduzir o esforço para decidir o próximo passo.",
+    "en": "I organized calls to action around two goals: viewing plans and finding locations. The three plans appear side by side on desktop, with benefits presented as lists. The intention is to make comparison easier and reduce the effort needed to decide the next step.",
+    "es": "Organicé las llamadas a la acción en torno a dos objetivos: ver los planes y encontrar las sedes. Los tres planes aparecen lado a lado en escritorio, con beneficios descritos en listas. La intención es facilitar la comparación y reducir el esfuerzo para decidir el siguiente paso."
+  },
+  "Referências e criação com IA": {
+    "pt": "Referências e criação com IA",
+    "en": "References and AI-assisted creation",
+    "es": "Referencias y creación con IA"
+  },
+  "O processo reuniu referências de sites do setor e de plataformas como Dribbble, Superhero, Navbar Guru e galerias de footer. Para parte das imagens, usei prompts elaborados com apoio do ChatGPT e gerei os visuais no próprio ChatGPT para compor o universo fictício da academia.": {
+    "pt": "O processo reuniu referências de sites do setor e de plataformas como Dribbble, Superhero, Navbar Guru e galerias de footer. Para parte das imagens, usei prompts elaborados com apoio do ChatGPT e gerei os visuais no próprio ChatGPT para compor o universo fictício da academia.",
+    "en": "The process brought together references from industry websites and platforms such as Dribbble, Superhero, Navbar Guru and footer galleries. For some images, I used prompts developed with ChatGPT and generated the visuals in ChatGPT to build the gym’s fictional world.",
+    "es": "El proceso reunió referencias de sitios del sector y plataformas como Dribbble, Superhero, Navbar Guru y galerías de footer. Para parte de las imágenes, utilicé prompts elaborados con apoyo de ChatGPT y generé los elementos visuales en ChatGPT para construir el universo ficticio del gimnasio."
+  },
+  "O que este projeto demonstra": {
+    "pt": "O que este projeto demonstra",
+    "en": "What this project demonstrates",
+    "es": "Lo que demuestra este proyecto"
+  },
+  "A VORA apresenta minha abordagem para organizar conteúdo, construir uma direção visual e orientar a navegação de um site do setor fitness. É uma demonstração do produto que posso entregar a futuros clientes, sem resultados comerciais ou métricas de usabilidade medidos neste projeto.": {
+    "pt": "A VORA apresenta minha abordagem para organizar conteúdo, construir uma direção visual e orientar a navegação de um site do setor fitness. É uma demonstração do produto que posso entregar a futuros clientes, sem resultados comerciais ou métricas de usabilidade medidos neste projeto.",
+    "en": "VORA presents my approach to organizing content, building a visual direction and guiding navigation for a fitness website. It demonstrates the product I can deliver to future clients, without claiming measured business results or usability metrics for this project.",
+    "es": "VORA presenta mi enfoque para organizar contenido, construir una dirección visual y orientar la navegación de un sitio del sector fitness. Demuestra el producto que puedo entregar a futuros clientes, sin atribuir resultados comerciales ni métricas de usabilidad medidas a este proyecto."
+  },
+  "Projeto pessoal e fictício. A academia, os planos e as unidades fazem parte do conceito; algumas imagens foram geradas com IA. As capturas mostram o site publicado em português.": {
+    "pt": "Projeto pessoal e fictício. A academia, os planos e as unidades fazem parte do conceito; algumas imagens foram geradas com IA. As capturas mostram o site publicado em português.",
+    "en": "A personal, fictional project. The gym, plans and locations are part of the concept; some images were AI-generated. Screenshots show the published website in Portuguese.",
+    "es": "Proyecto personal y ficticio. El gimnasio, los planes y las sedes forman parte del concepto; algunas imágenes se generaron con IA. Las capturas muestran el sitio publicado en portugués."
+  },
+  "Página inicial da VORA": {
+    "pt": "Página inicial da VORA",
+    "en": "VORA homepage",
+    "es": "Página de inicio de VORA"
+  },
+  "Ambientes e informações da academia": {
+    "pt": "Ambientes e informações da academia",
+    "en": "Gym spaces and information",
+    "es": "Espacios e información del gimnasio"
+  },
+  "Comparação dos planos da VORA": {
+    "pt": "Comparação dos planos da VORA",
+    "en": "VORA plan comparison",
+    "es": "Comparación de los planes de VORA"
+  },
+  "VORA / WEBSITE FITNESS": {
+    "pt": "VORA / WEBSITE FITNESS",
+    "en": "VORA / FITNESS WEBSITE",
+    "es": "VORA / SITIO WEB FITNESS"
+  },
+  "Ver VORA": {
+    "pt": "Ver VORA",
+    "en": "View VORA",
+    "es": "Ver VORA"
+  },
+  "Nota sobre o projeto": {
+    "pt": "Nota sobre o projeto",
+    "en": "Project note",
+    "es": "Nota sobre el proyecto"
+  },
+  "Sala de musculação da VORA": {
+    "pt": "Sala de musculação da VORA",
+    "en": "VORA strength training room",
+    "es": "Sala de musculación de VORA"
+  },
+  "Painel de exploração visual da logo VORA": {
+    "pt": "Painel de exploração visual da logo VORA",
+    "en": "VORA logo visual exploration board",
+    "es": "Panel de exploración visual del logotipo VORA"
+  },
+  "Ambiente de cardio": {
+    "pt": "Ambiente de cardio",
+    "en": "Cardio space",
+    "es": "Espacio de cardio"
+  },
+  "Ambiente de fisioterapia": {
+    "pt": "Ambiente de fisioterapia",
+    "en": "Physiotherapy space",
+    "es": "Espacio de fisioterapia"
+  },
+  "Sala de dança": {
+    "pt": "Sala de dança",
+    "en": "Dance studio",
+    "es": "Sala de danza"
+  },
+  "Orientação durante o treino": {
+    "pt": "Orientação durante o treino",
+    "en": "Guidance during training",
+    "es": "Orientación durante el entrenamiento"
+  },
+  "Experiência de treino e movimento": {
+    "pt": "Experiência de treino e movimento",
+    "en": "Training and movement experience",
+    "es": "Experiencia de entrenamiento y movimiento"
+  },
+  "Acompanhamento individual": {
+    "pt": "Acompanhamento individual",
+    "en": "Individual guidance",
+    "es": "Acompañamiento individual"
+  },
+  "Projeto pessoal e fictício. A academia, os planos e as unidades fazem parte do conceito. As imagens ilustram o universo visual criado para a VORA com apoio de IA.": {
+    "pt": "Projeto pessoal e fictício. A academia, os planos e as unidades fazem parte do conceito. As imagens ilustram o universo visual criado para a VORA com apoio de IA.",
+    "en": "A personal, fictional project. The gym, plans and locations are part of the concept. The images illustrate the visual world created for VORA with AI assistance.",
+    "es": "Proyecto personal y ficticio. El gimnasio, los planes y las sedes forman parte del concepto. Las imágenes ilustran el universo visual creado para VORA con apoyo de IA."
+  },
+  "CLIENTE REAL / DESIGN DE LOGO / 2025": {
+    "pt": "CLIENTE REAL / DESIGN DE LOGO / 2025",
+    "en": "REAL CLIENT / LOGO DESIGN / 2025",
+    "es": "CLIENTE REAL / DISEÑO DE LOGOTIPO / 2025"
+  },
+  "Uma marca pessoal que acompanha o mestre dentro e fora do tatame.": {
+    "pt": "Uma marca pessoal que acompanha o mestre dentro e fora do tatame.",
+    "en": "A personal brand that accompanies the master on and off the mat.",
+    "es": "Una marca personal que acompaña al maestro dentro y fuera del tatami."
+  },
+  "Em 2025, Gustavo, mestre faixa-preta de jiu-jitsu, me procurou para criar sua logo pessoal. O projeto nasceu do desejo de construir uma presença visual própria, que pudesse acompanhá-lo no dia a dia e representar sua identidade além das lutas.": {
+    "pt": "Em 2025, Gustavo, mestre faixa-preta de jiu-jitsu, me procurou para criar sua logo pessoal. O projeto nasceu do desejo de construir uma presença visual própria, que pudesse acompanhá-lo no dia a dia e representar sua identidade além das lutas.",
+    "en": "In 2025, Gustavo, a jiu-jitsu black belt master, asked me to create his personal logo. The project grew from his desire for a distinctive visual presence that could accompany him every day and express his identity beyond fighting.",
+    "es": "En 2025, Gustavo, maestro cinturón negro de jiu-jitsu, me pidió crear su logotipo personal. El proyecto nació del deseo de construir una presencia visual propia que lo acompañara a diario y representara su identidad más allá de las luchas."
+  },
+  "Entender quem a marca representa": {
+    "pt": "Entender quem a marca representa",
+    "en": "Understanding who the brand represents",
+    "es": "Entender a quién representa la marca"
+  },
+  "Na pesquisa de referências do universo das lutas, observei o uso de animais como símbolos de identificação pessoal. Nas conversas com Gustavo, o urso surgiu como uma referência com a qual ele se identificava: força, perseverança e resiliência. Essas associações orientaram o conceito da marca.": {
+    "pt": "Na pesquisa de referências do universo das lutas, observei o uso de animais como símbolos de identificação pessoal. Nas conversas com Gustavo, o urso surgiu como uma referência com a qual ele se identificava: força, perseverança e resiliência. Essas associações orientaram o conceito da marca.",
+    "en": "While researching references in martial arts, I noticed animals used as symbols of personal identity. In conversations with Gustavo, the bear emerged as a reference he identified with: strength, perseverance and resilience. These associations guided the brand concept.",
+    "es": "Al investigar referencias del mundo de las artes marciales, observé el uso de animales como símbolos de identidad personal. En las conversaciones con Gustavo, el oso surgió como una referencia con la que se identificaba: fuerza, perseverancia y resiliencia. Estas asociaciones orientaron el concepto de la marca."
+  },
+  "Do conceito ao desenho": {
+    "pt": "Do conceito ao desenho",
+    "en": "From concept to drawing",
+    "es": "Del concepto al dibujo"
+  },
+  "Adaptei o urso com um kimono e uma faixa preta para aproximar o símbolo da trajetória do mestre. Desenvolvi o projeto inteiramente no Figma, trabalhando o desenho, a tipografia e a composição até o resultado final. A captura do arquivo mostra as explorações e variações ao longo desse processo.": {
+    "pt": "Adaptei o urso com um kimono e uma faixa preta para aproximar o símbolo da trajetória do mestre. Desenvolvi o projeto inteiramente no Figma, trabalhando o desenho, a tipografia e a composição até o resultado final. A captura do arquivo mostra as explorações e variações ao longo desse processo.",
+    "en": "I adapted the bear with a gi and a black belt to connect the symbol to the master’s journey. I developed the project entirely in Figma, working on the drawing, typography and composition through to the final result. The file screenshot shows explorations and variations from this process.",
+    "es": "Adapté el oso con un kimono y un cinturón negro para conectar el símbolo con la trayectoria del maestro. Desarrollé todo el proyecto en Figma, trabajando el dibujo, la tipografía y la composición hasta el resultado final. La captura del archivo muestra las exploraciones y variantes del proceso."
+  },
+  "Aplicações da marca": {
+    "pt": "Aplicações da marca",
+    "en": "Brand applications",
+    "es": "Aplicaciones de la marca"
+  },
+  "Os mockups de kimono exploram como a logo pode aparecer no vestuário de treino. São simulações de aplicação, apresentadas aqui para visualizar a relação entre o símbolo, o nome e a peça.": {
+    "pt": "Os mockups de kimono exploram como a logo pode aparecer no vestuário de treino. São simulações de aplicação, apresentadas aqui para visualizar a relação entre o símbolo, o nome e a peça.",
+    "en": "The gi mockups explore how the logo can appear on training apparel. These are application simulations, presented to visualize the relationship between the symbol, the name and the garment.",
+    "es": "Los mockups de kimono exploran cómo puede aparecer el logotipo en la ropa de entrenamiento. Son simulaciones de aplicación para visualizar la relación entre el símbolo, el nombre y la prenda."
+  },
+  "Do arquivo ao uso real": {
+    "pt": "Do arquivo ao uso real",
+    "en": "From file to real use",
+    "es": "Del archivo al uso real"
+  },
+  "A marca saiu do arquivo e passou a fazer parte do espaço de treino. A foto mostra Gustavo com a bandeira produzida com a logo. No vídeo real, gravado por ele durante uma aula em sua academia, a bandeira aparece pendurada no ambiente.": {
+    "pt": "A marca saiu do arquivo e passou a fazer parte do espaço de treino. A foto mostra Gustavo com a bandeira produzida com a logo. No vídeo real, gravado por ele durante uma aula em sua academia, a bandeira aparece pendurada no ambiente.",
+    "en": "The brand moved beyond the file and became part of the training space. The photo shows Gustavo with the flag produced using the logo. In the real video, recorded by him during a class at his gym, the flag is displayed in the space.",
+    "es": "La marca salió del archivo y pasó a formar parte del espacio de entrenamiento. La foto muestra a Gustavo con la bandera producida con el logotipo. En el video real, grabado por él durante una clase en su academia, la bandera aparece colgada en el espacio."
+  },
+  "Logo pessoal do Mestre Gustavo": {
+    "pt": "Logo pessoal do Mestre Gustavo",
+    "en": "Mestre Gustavo personal logo",
+    "es": "Logotipo personal de Mestre Gustavo"
+  },
+  "Explorações no Figma": {
+    "pt": "Explorações no Figma",
+    "en": "Explorations in Figma",
+    "es": "Exploraciones en Figma"
+  },
+  "Mockup de aplicação no kimono branco": {
+    "pt": "Mockup de aplicação no kimono branco",
+    "en": "White gi application mockup",
+    "es": "Mockup de aplicación en kimono blanco"
+  },
+  "Mockup de aplicação no vestuário": {
+    "pt": "Mockup de aplicação no vestuário",
+    "en": "Apparel application mockup",
+    "es": "Mockup de aplicación en vestuario"
+  },
+  "Gustavo com a bandeira — aplicação real": {
+    "pt": "Gustavo com a bandeira — aplicação real",
+    "en": "Gustavo with the flag — real application",
+    "es": "Gustavo con la bandera — aplicación real"
+  },
+  "Registro real de uma aula e da bandeira na academia": {
+    "pt": "Registro real de uma aula e da bandeira na academia",
+    "en": "Real footage of a class and the flag at the gym",
+    "es": "Registro real de una clase y de la bandera en la academia"
+  },
+  "Abrir vídeo da aplicação real": {
+    "pt": "Abrir vídeo da aplicação real",
+    "en": "Open real application video",
+    "es": "Abrir video de la aplicación real"
+  },
+  "DESIGN DE LOGO / CLIENTE REAL": {
+    "pt": "DESIGN DE LOGO / CLIENTE REAL",
+    "en": "LOGO DESIGN / REAL CLIENT",
+    "es": "DISEÑO DE LOGOTIPO / CLIENTE REAL"
+  },
+  "Ver Mestre Gustavo": {
+    "pt": "Ver Mestre Gustavo",
+    "en": "View Mestre Gustavo",
+    "es": "Ver Mestre Gustavo"
+  },
+  "Colagem editorial VORA com ambientes da academia e cenas de treino.": {
+    "pt": "Colagem editorial VORA com ambientes da academia e cenas de treino.",
+    "en": "VORA editorial collage with gym spaces and training scenes.",
+    "es": "Collage editorial VORA con espacios del gimnasio y escenas de entrenamiento."
+  },
+  "CRIAÇÃO DE LOGO / SERVIÇO COMPLEMENTAR": {
+    "pt": "CRIAÇÃO DE LOGO / SERVIÇO COMPLEMENTAR",
+    "en": "LOGO DESIGN / COMPLEMENTARY SERVICE",
+    "es": "DISEÑO DE LOGOTIPOS / SERVICIO COMPLEMENTARIO"
+  },
+  "Além do meu foco em Product Design, também ofereço criação de logos. Este projeto foi desenvolvido para um cliente real.": {
+    "pt": "Além do meu foco em Product Design, também ofereço criação de logos. Este projeto foi desenvolvido para um cliente real.",
+    "en": "Alongside my focus on Product Design, I also offer logo design. This project was developed for a real client.",
+    "es": "Además de mi enfoque en Product Design, también ofrezco diseño de logotipos. Este proyecto fue desarrollado para un cliente real."
   }
 }

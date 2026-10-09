@@ -128,3 +128,16 @@ main.language-refresh .reveal{transform:none!important;opacity:1!important;trans
 
 /* Explicit language anchoring owns scroll position; avoid browser double compensation. */
 html{overflow-anchor:none}
+
+.vora-case .case-image img{aspect-ratio:auto;object-fit:contain}.cover.gym:has(img[src*="vora-home"]){background:#f5f0e6}.cover.gym img[src*="vora-home"]{object-fit:contain;object-position:center}
+
+.vora-photo-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:24px;padding:0 var(--gutter);margin:32px 0}.vora-photo-grid .case-image{margin:0;padding:0;width:100%}.vora-case .case-image img{display:block;width:100%;height:auto;object-fit:contain}.vora-case .vora-brand-board{max-width:920px;margin:48px auto;padding:0 var(--gutter)}.cover.gym img[src*="vora-strength"]{object-fit:cover;object-position:center}@media(max-width:700px){.vora-photo-grid{grid-template-columns:1fr;gap:24px;padding:0 24px}.vora-case .vora-brand-board{padding:0 24px;margin:32px auto}}
+
+.gustavo-cover{background:white}.gustavo-cover .cover-art{object-fit:contain;padding:24px}.gustavo-hero{margin:0;background:#fff;text-align:center;padding:32px}.gustavo-hero img{display:block;width:min(100%,680px);height:auto;margin:auto}.gustavo-case .gustavo-image img{display:block;width:100%;height:auto;aspect-ratio:auto;object-fit:contain}.gustavo-process{max-width:960px;margin:48px auto!important}.gustavo-pair{display:grid;grid-template-columns:1fr 1fr;gap:28px;padding:0 var(--gutter);margin:40px 0}.gustavo-pair .case-image{margin:0;padding:0;width:100%}.gustavo-video video{display:block;width:100%;max-height:800px;background:#111}.gustavo-video .text-link{display:inline-block;margin-top:20px}@media(max-width:700px){.gustavo-pair{grid-template-columns:1fr;padding:0 24px}.gustavo-hero{padding:24px}.gustavo-process{margin:24px!important}}
+
+.cover.gym img[src*="vora-cover"]{object-fit:cover;object-position:center}
+
+/* Match the VORA collage dimensions so no background strip remains. */
+.cover.gym{aspect-ratio:1672/941;background:transparent}.cover.gym .cover-art{height:100%;object-fit:cover}
+
+.project > .project-service-note{font-size:15px;line-height:1.5;letter-spacing:normal;text-transform:none;max-width:52ch;margin-top:0}
