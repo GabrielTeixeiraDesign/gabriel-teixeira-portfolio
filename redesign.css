@@ -141,3 +141,16 @@ html{overflow-anchor:none}
 .cover.gym{aspect-ratio:1672/941;background:transparent}.cover.gym .cover-art{height:100%;object-fit:cover}
 
 .project > .project-service-note{font-size:15px;line-height:1.5;letter-spacing:normal;text-transform:none;max-width:52ch;margin-top:0}
+
+/* Category navigation in the projects preview. */
+.category-links button{display:inline-flex;align-items:center;gap:32px;border:1px solid var(--ink);padding:16px 22px;background:transparent;color:var(--ink);text-transform:uppercase;border-radius:0;transition:background .2s,box-shadow .2s,transform .2s}
+.category-links button:first-child{background:var(--acid);box-shadow:3px 3px 0 var(--ink)}
+.category-links button:hover{background:var(--acid);box-shadow:3px 3px 0 var(--ink);transform:translateY(-2px)}
+.project-category .section-head{align-items:flex-end;flex-direction:row}
+.project-category .section-head h2{margin-top:18px}
+.project-category .category-description{font-size:16px;line-height:1.5;max-width:360px}
+.project-category + .project-category{padding-top:32px}
+.project-category h2:focus{outline:none}
+@media(max-width:700px){.category-links button{padding:14px 18px;font-size:12px;gap:24px}.project-category .section-head{align-items:flex-start;flex-direction:column}.project-category .category-description{font-size:15px}.project-category + .project-category{padding-top:16px}}
+
+@media(max-width:1000px){.project-category .section-head{align-items:flex-start;flex-direction:column}}

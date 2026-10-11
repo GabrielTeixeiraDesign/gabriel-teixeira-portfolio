@@ -1013,5 +1013,40 @@
     "pt": "Além do meu foco em Product Design, também ofereço criação de logos. Este projeto foi desenvolvido para um cliente real.",
     "en": "Alongside my focus on Product Design, I also offer logo design. This project was developed for a real client.",
     "es": "Además de mi enfoque en Product Design, también ofrezco diseño de logotipos. Este proyecto fue desarrollado para un cliente real."
+  },
+  "Sites": {
+    "pt": "Sites",
+    "en": "Websites",
+    "es": "Sitios web"
+  },
+  "Logos": {
+    "pt": "Logos",
+    "en": "Logos",
+    "es": "Logotipos"
+  },
+  "Navegar por categoria de projeto": {
+    "pt": "Navegar por categoria de projeto",
+    "en": "Navigate by project category",
+    "es": "Navegar por categoría de proyecto"
+  },
+  "01 / PRODUCT DESIGN": {
+    "pt": "01 / PRODUCT DESIGN",
+    "en": "01 / PRODUCT DESIGN",
+    "es": "01 / PRODUCT DESIGN"
+  },
+  "02 / SERVIÇO COMPLEMENTAR": {
+    "pt": "02 / SERVIÇO COMPLEMENTAR",
+    "en": "02 / COMPLEMENTARY SERVICE",
+    "es": "02 / SERVICIO COMPLEMENTARIO"
+  },
+  "Experiências digitais com foco em UX, UI e navegação.": {
+    "pt": "Experiências digitais com foco em UX, UI e navegação.",
+    "en": "Digital experiences focused on UX, UI and navigation.",
+    "es": "Experiencias digitales centradas en UX, UI y navegación."
+  },
+  "Criação de logos como complemento à minha atuação em Product Design.": {
+    "pt": "Criação de logos como complemento à minha atuação em Product Design.",
+    "en": "Logo design as a complement to my work in Product Design.",
+    "es": "Diseño de logotipos como complemento a mi trabajo en Product Design."
   }
 }
