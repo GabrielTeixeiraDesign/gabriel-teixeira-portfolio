@@ -154,3 +154,9 @@ html{overflow-anchor:none}
 @media(max-width:700px){.category-links button{padding:14px 18px;font-size:12px;gap:24px}.project-category .section-head{align-items:flex-start;flex-direction:column}.project-category .category-description{font-size:15px}.project-category + .project-category{padding-top:16px}}
 
 @media(max-width:1000px){.project-category .section-head{align-items:flex-start;flex-direction:column}}
+
+.cover.wedding-cover{aspect-ratio:1672/941;background:transparent}.cover.wedding-cover .cover-art{height:100%;object-fit:cover}
+.project[data-project="marriage"]::before{content:'03'}
+.wedding-case .case-image img{display:block;width:100%;height:auto;aspect-ratio:auto;object-fit:contain}
+.wedding-photo-grid{display:grid;grid-template-columns:1fr 1fr;gap:28px;padding:0 var(--gutter);margin:48px 0}.wedding-photo-grid .case-image{margin:0;padding:0;width:100%}
+@media(max-width:700px){.wedding-photo-grid{grid-template-columns:1fr;gap:24px;padding:0 24px;margin:32px 0}}
