@@ -1163,5 +1163,95 @@
     "pt": "Ver Entre nós",
     "en": "View Entre nós",
     "es": "Ver Entre nós"
+  },
+  "Galeria de projetos": {
+    "pt": "Galeria de projetos",
+    "en": "Project gallery",
+    "es": "Galería de proyectos"
+  },
+  "Projeto anterior": {
+    "pt": "Projeto anterior",
+    "en": "Previous project",
+    "es": "Proyecto anterior"
+  },
+  "Próximo projeto": {
+    "pt": "Próximo projeto",
+    "en": "Next project",
+    "es": "Siguiente proyecto"
+  },
+  "Explore as capas. Clique para abrir o projeto.": {
+    "pt": "Explore as capas. Clique para abrir o projeto.",
+    "en": "Explore the covers. Click to open a project.",
+    "es": "Explora las portadas. Haz clic para abrir un proyecto."
+  },
+  "Índice de": {
+    "pt": "Índice de",
+    "en": "Project",
+    "es": "Índice de"
+  },
+  "projetos.": {
+    "pt": "projetos.",
+    "en": "index.",
+    "es": "proyectos."
+  },
+  "Nº": {
+    "pt": "Nº",
+    "en": "No.",
+    "es": "Nº"
+  },
+  "Projeto": {
+    "pt": "Projeto",
+    "en": "Project",
+    "es": "Proyecto"
+  },
+  "Tipo": {
+    "pt": "Tipo",
+    "en": "Type",
+    "es": "Tipo"
+  },
+  "Disciplina": {
+    "pt": "Disciplina",
+    "en": "Discipline",
+    "es": "Disciplina"
+  },
+  "Cliente real": {
+    "pt": "Cliente real",
+    "en": "Real client",
+    "es": "Cliente real"
+  },
+  "Projeto fictício": {
+    "pt": "Projeto fictício",
+    "en": "Fictional project",
+    "es": "Proyecto ficticio"
+  },
+  "Criação de logo": {
+    "pt": "Criação de logo",
+    "en": "Logo design",
+    "es": "Diseño de logotipo"
+  },
+  "Segmento": {
+    "pt": "Segmento",
+    "en": "Sector",
+    "es": "Sector"
+  },
+  "Automobilismo": {
+    "pt": "Automobilismo",
+    "en": "Motorsport",
+    "es": "Automovilismo"
+  },
+  "Fitness": {
+    "pt": "Fitness",
+    "en": "Fitness",
+    "es": "Fitness"
+  },
+  "Casamento": {
+    "pt": "Casamento",
+    "en": "Wedding",
+    "es": "Boda"
+  },
+  "Artes marciais": {
+    "pt": "Artes marciais",
+    "en": "Martial arts",
+    "es": "Artes marciales"
   }
 }
